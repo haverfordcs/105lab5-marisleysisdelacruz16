@@ -4,7 +4,7 @@ Due on: Midnight, October 8th
 Max points: 25 + 5 (Bonus)
 Goal: to test your looping, conditionals, logical, data structures, and algorithm analysis skills. 
 
-<Type in your name>
+<Marisleysis De La Cruz>
 
 Description: implement the following algorithms, the description (and majority of the code) is given in Chapter 9 of http://itlectures.ro/wp-content/uploads/2016/04/AdamDrozdek__DataStructures_and_Algorithms_in_C_4Ed.pdf
 
